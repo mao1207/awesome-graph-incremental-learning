@@ -59,8 +59,8 @@
 [I-GCN: Incremental Graph Convolution Network for Conversation Emotion Detection](https://ieeexplore.ieee.org/document/9565365) ```IEEE Transactions on Multimedia 2021```\
 [Incremental Learning on Growing Graphs](https://openreview.net/forum?id=nySHNUlKTVw) ```ICLR 2021```\
 [FILDNE: A Framework for Incremental Learning of Dynamic Networks Embeddings](https://dl.acm.org/doi/10.1016/j.knosys.2021.107453) ```Knowledge-Based Systems 2021```\
-[GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412754) ```CIKM 2020```
-[Streaming Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397271.3401092) ```SIGIR 2020```\
+[GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems](https://dl.acm.org/doi/10.1145/3340531.3412754) ```CIKM 2020```\
+[Streaming Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3397271.3401092) ```SIGIR 2020```
 
 ## Graph-level
 [Two-level Graph Network for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2303.13862) ```arXiv 2023```\
