@@ -63,8 +63,8 @@
 
 ## Graph-level
 [Two-level Graph Network for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2303.13862) ```arXiv 2023```\
-[Knowledge graph incremental embedding for unseen modalities](https://dl.acm.org/doi/abs/10.1007/s10115-023-01868-9) ```ACM 2023```
-[Multimodal Continual Graph Learning with Neural Architecture Search](https://dl.acm.org/doi/10.1145/3485447.3512176) ```WWW 2022```
+[Knowledge graph incremental embedding for unseen modalities](https://dl.acm.org/doi/abs/10.1007/s10115-023-01868-9) ```ACM 2023```\
+[Multimodal Continual Graph Learning with Neural Architecture Search](https://dl.acm.org/doi/10.1145/3485447.3512176) ```WWW 2022```\
 [Continual Learning of Knowledge Graph Embeddings](https://ieeexplore.ieee.org/document/9343669) ```IEEE Robotics and Automation Letters 2021```\
 [Overcoming Catastrophic Forgetting in Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/17049/16856) ```AAAI 2021```\
 [Catastrophic Forgetting in Deep Graph Networks: an Introductory Benchmark for Graph Classification](https://arxiv.org/abs/2103.11750) ```GLB 2021```\
